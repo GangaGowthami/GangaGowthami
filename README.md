@@ -1,4 +1,4 @@
-![logo](https://github.com/GangaGowthami/Gowthami-Profile/blob/main/Banner.jfif)
+![logo](https://github.com/GangaGowthami/GangaGowthami/blob/main/Banner-Git.jpg)
 <h1 align="center">Hi 👋, I'm Gowthami Ganga</h1>
 <h3 align="center">A passionate Datascientist from India</h3>
 
