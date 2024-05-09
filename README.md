@@ -1,8 +1,6 @@
-![logo](https://github.com/GangaGowthami/GangaGowthami/blob/main/Banner-Git.jpg)
+![logo](https://github.com/GangaGowthami/GangaGowthami/blob/main/Banner-Gowthami.png)
 <h1 align="center">Hi 👋, I'm Gowthami Ganga</h1>
 <h3 align="center">A passionate Datascientist from India</h3>
-
-![image](https://github.com/GangaGowthami/Gowthami-Profile/assets/131700676/2a15d3e8-20ce-4199-b892-637240e2d226)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangagowthami&label=Profile%20views&color=0e75b6&style=flat" alt="gangagowthami" /> </p>
 
